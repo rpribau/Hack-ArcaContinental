@@ -6,7 +6,7 @@
   - [X] Festividades
   - [X] Estaciones
   - [X] Mes del año
-  - [ ] Covid
+  - [X] Covid
 - [ ] Sentimiento del mercado
   - [ ] Análisis de sentimiento (Noticias)
 - [ ] Análisis de correlación
