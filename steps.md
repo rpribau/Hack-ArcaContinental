@@ -5,7 +5,7 @@
 - [ ] Identificar patrones en las fechas
   - [X] Festividades
   - [X] Estaciones
-  - [ ] Mes del año
+  - [X] Mes del año
   - [ ] Covid
 - [ ] Sentimiento del mercado
   - [ ] Análisis de sentimiento (Noticias)
