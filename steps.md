@@ -3,8 +3,8 @@
 ## Data Analysis
 
 - [ ] Identificar patrones en las fechas
-  - [ ] Festividades
-  - [ ] Estaciones
+  - [X] Festividades
+  - [X] Estaciones
   - [ ] Mes del año
   - [ ] Covid
 - [ ] Sentimiento del mercado
